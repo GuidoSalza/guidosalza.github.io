@@ -7,6 +7,10 @@ author_profile: true
 
 ### National & International conferences
 
+SISEC Conference, University of Pavia, January 2025
+
+CS2Italy2025, 1st Conference On Computational Social Science, University of Trento, January 2025
+
 INVALSI Conference, Rome, October 2024
 
 SISEC Conference, University of Cagliari, January 2024
