@@ -6,6 +6,8 @@ author_profile: true
 ---
 ### In peer reviewed journals:
 
+Fernandez-Urbano, R., Salza, G. & Samuel, R. Subjective School Experience and Well-Being during the COVID-19 Pandemic. J Happiness Stud 26, 14 (2025).
+
 Contini, D., & Salza, G. (2024). Children left behind. New evidence on the (adverse) impact of grade retention on educational careers. European Sociological Review, jcae014.
 
 Salza, G. (2022). Equally performing, unfairly evaluated: The social determinants of grade repetition in Italian high schools. Research in Social Stratification and Mobility, 77, 100676.
@@ -18,13 +20,9 @@ Contini, D., and Salza, G. (2020). Too few university graduates. Inclusiveness a
 
 Cavallaro, M., et al. (2018. Un scrutin pour trois pays : la nouvelle géographie politique italienne suite à l’élection législative du 4 mars 2018. EchoGéo, 16294.
 
-### Submitted works and preprints:
-
-Contini D., G. Salza, A. Scagni (2017) Dropout and Time to Degree in Italian Universities Around the Economic Crisis. Working paper 16/17 Department of Economics and Statistics, University of Turin
-
 ### Book chapters:
 
-Triventi, M., Passaretta G., Salza G. (forthcoming) "Student employment in higher education: Patterns, drivers and outcomes" in Verhaest D. & Wolbers, M.H.J "Handbook on Education and Work", Elgar Handbooks in Education Series.
+Triventi, M., Passaretta, G., & Salza, G. (2025). "6: Student employment in higher education: patterns, drivers and outcomes". In Handbook of Education and Work. Cheltenham, UK: Edward Elgar Publishing
 
 Cavallaro M., Salza G., Zanetti A. (2018) ’The future in agenda. Quantitative analysis of party programs in the 2018 general election’ (ITA) in Cavallaro, M. et al. Una nuova Italia: Dalla comunicazione ai risultati, un’analisi delle elezioni del 4 marzo. LIT EDIZIONI, 2018.
 
@@ -33,3 +31,9 @@ Cavallaro M., Policastro D., Salza G., Zanetti A. (2018) ’Italy’s new colors
 Cavallaro M., Policastro D., Salza G., Zanetti A. (2018) ’The Italy that wasn’t there: the new social composition of the vote’ (ITA) in Cavallaro, M. et al. Una nuova Italia: Dalla comunicazione ai risultati, un’analisi delle elezioni del 4 marzo. LIT EDIZIONI, 2018.
 
 Cavallaro M., Policastro D., Salza G., Zanetti A. (2018) ’Themes and values of the March 4 election in Italy’ (ITA) in Cavallaro M. et al. Una nuova Italia: Dalla comunicazione ai risultati, un’analisi delle elezioni del 4 marzo. LIT EDIZIONI, 2018.
+
+### Other works:
+
+Contini, D., Ricciardi, R., Romito, M., Salza, G., & Zotti, R. (2020). Improving university dropout and student careers. What room for institutional action?. WORKING PAPER SERIES, 4.
+
+Contini D., G. Salza, A. Scagni (2017) Dropout and Time to Degree in Italian Universities Around the Economic Crisis. Working paper 16/17 Department of Economics and Statistics, University of Turin
