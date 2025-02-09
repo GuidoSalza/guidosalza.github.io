@@ -5,6 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
+### Lab: data analysis for the study of social inequalities in a comparative perspective
+Professor
+M.A. in Global politics and society (GPS) - 2024/2025 academic year
+[forthcoming, preliminary info here]
+
 ### Quantitative Methods Lab 
 Lecturer and tutor
 M.A. in Sociology
