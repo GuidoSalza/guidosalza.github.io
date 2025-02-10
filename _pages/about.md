@@ -10,7 +10,7 @@ redirect_from:
 
 I have a Ph.D. in Sociology and Methodology of Social Research and I am currently an Assistant Professor at the [University of Milan, Department of Social and Political Sciences](https://www.unimi.it/en/ugov/ou-structure/department-social-and-political-sciences).
 
-I am actively involved the [EduLab](https://www.linkedin.com/company/edulab-universit%C3%A0-degli-studi-di-milano), a collaborative research group based at the University of Milan. We are dedicated to advancing academic knowledge and informing policy makers through theoretically driven, rigorous empirical work in the field of sociology of education and social stratification.
+I am actively involved in the [EduLab](https://www.linkedin.com/company/edulab-universit%C3%A0-degli-studi-di-milano), a collaborative research group based at the University of Milan. We are dedicated to advancing academic knowledge and informing policy makers through theoretically driven, rigorous empirical work in the field of sociology of education and social stratification.
 
 I am interested in the institutional and informal constraints that prevent equal educational opportunities for all. My approach covers a range of perspectives: comparing educational inequalities across different contexts, analyzing how school organizational features influence these disparities, and examining the impact of digitalization on educational access. 
 
