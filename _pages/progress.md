@@ -13,5 +13,4 @@ _Drafts or presentations are available upon request_
 
 🠊 A novel examination of trends in vertical and horizontal inequalities in higher education: A large scale cross-national analysis (with Moris Triventi)
 
-🠊 Feeling good about school? Subjective School Experience and Well-Being in Times of COVID-19 among the Youth (with Roger Fernandez Urbano). Submitted to journals.
 
