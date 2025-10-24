@@ -7,6 +7,8 @@ author_profile: true
 
 ### National & International conferences
 
+International Sociological Association, RC28 Social Stratification Conference, Milan 2025 (Organizer, chair, and panelist)
+
 SISEC Conference, University of Pavia, January 2025
 
 CS2Italy2025, 1st Conference On Computational Social Science, University of Trento, January 2025
