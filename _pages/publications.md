@@ -6,6 +6,8 @@ author_profile: true
 ---
 ### In peer reviewed journals:
 
+Salza, G., & Samuel, R. (2025). Digital engagement and youth: A scoping review of opportunities, risks, and the role of socioeconomic resources. Information, Communication and Society, accepted for publication. 10.1080/1369118X.2025.2574297.
+
 Fernandez-Urbano, R., Salza, G. & Samuel, R. Subjective School Experience and Well-Being during the COVID-19 Pandemic. J Happiness Stud 26, 14 (2025).
 
 Contini, D., & Salza, G. (2024). Children left behind. New evidence on the (adverse) impact of grade retention on educational careers. European Sociological Review, jcae014.
@@ -24,6 +26,8 @@ Cavallaro, M., et al. (2018. Un scrutin pour trois pays : la nouvelle géographi
 
 Triventi, M., Passaretta, G., & Salza, G. (2025). "6: Student employment in higher education: patterns, drivers and outcomes". In Handbook of Education and Work. Cheltenham, UK: Edward Elgar Publishing
 
+Contini, D., & Salza, G. (2025). The weight of grade retention: School destinies on the edge [ITA] in Mobilio (Ed.),The school that reads itself: The value of data and educational research for analysing and addressing early school leaving. Fondazione per la Scuola.
+
 Cavallaro M., Salza G., Zanetti A. (2018) ’The future in agenda. Quantitative analysis of party programs in the 2018 general election’ (ITA) in Cavallaro, M. et al. Una nuova Italia: Dalla comunicazione ai risultati, un’analisi delle elezioni del 4 marzo. LIT EDIZIONI, 2018.
 
 Cavallaro M., Policastro D., Salza G., Zanetti A. (2018) ’Italy’s new colors: geography of the 2018 vote’ (ITA) in Cavallaro, M. et al. Una nuova Italia: Dalla comunicazione ai risultati, un’analisi delle elezioni del 4 marzo. LIT EDIZIONI, 2018.
@@ -32,7 +36,13 @@ Cavallaro M., Policastro D., Salza G., Zanetti A. (2018) ’The Italy that wasn�
 
 Cavallaro M., Policastro D., Salza G., Zanetti A. (2018) ’Themes and values of the March 4 election in Italy’ (ITA) in Cavallaro M. et al. Una nuova Italia: Dalla comunicazione ai risultati, un’analisi delle elezioni del 4 marzo. LIT EDIZIONI, 2018.
 
+### Edited volumes:
+
+Triventi, M., & Salza, G. (forthcoming). Educational inequalities: Trends, mechanisms, and consequences (Edited volume) [ITA]. University of Milan.
+
 ### Other works:
+
+Contini, D., Salza, G., Valpreda, B. (2025). Indirect Effects of Grade Retention on Student Achievement. In: di Bella, E., Gioia, V., Lagazio, C., Zaccarin, S. (eds) Statistics for Innovation II. SIS 2025. Italian Statistical Society Series on Advances in Statistics. Springer, Cham.
 
 Contini, D., Ricciardi, R., Romito, M., Salza, G., & Zotti, R. (2020). Improving university dropout and student careers. What room for institutional action?. WORKING PAPER SERIES, 4.
 
