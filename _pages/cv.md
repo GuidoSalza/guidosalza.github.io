@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-View or download my [CV](https://github.com/GuidoSalza/guidosalza.github.io/blob/master/files/CVSALZA_oct25.pdf)
+View or download my [CV](https://drive.google.com/file/d/1uOKaMJTGxOE99t3CcaLYz-ib9uHnE-sQ/view?usp=sharing).
