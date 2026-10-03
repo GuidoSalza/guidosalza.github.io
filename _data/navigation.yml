@@ -1,17 +1,11 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
-
-  - title: "Conferences & Seminars"
-    url: /talks/    
+    url: /publications/   
     
   - title: "Data & Code"
     url: /data-code/
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "CV"
-    url: /cv/
  
