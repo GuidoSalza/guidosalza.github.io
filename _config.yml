@@ -1,7 +1,3 @@
-# ============================================================
-# SITE
-# ============================================================
-
 locale          : "en-US"
 title           : "Guido Salza"
 title_separator : "-"
@@ -10,20 +6,6 @@ description     : "Guido Salza is Assistant Professor of Sociology at the Univer
 url             : "https://guidosalza.github.io"
 baseurl         : ""
 repository      : "GuidoSalza/guidosalza.github.io"
-
-
-# ============================================================
-# FEED
-# ============================================================
-
-# The website does not use a blog or news feed.
-atom_feed:
-  hide: true
-
-
-# ============================================================
-# STRUCTURED SOCIAL PROFILES
-# ============================================================
 
 social:
   type: "Person"
@@ -34,11 +16,6 @@ social:
     - "https://scholar.google.com/citations?user=m2Yt3AUAAAAJ"
     - "https://orcid.org/0000-0001-7793-5304"
     - "https://osf.io/ux3mf/"
-
-
-# ============================================================
-# AUTHOR PROFILE
-# ============================================================
 
 author:
   name          : "Guido Salza"
@@ -52,41 +29,17 @@ author:
   linkedin      : "guido-salza-793882129"
   orcid         : "https://orcid.org/0000-0001-7793-5304"
 
-
-# ============================================================
-# FILES
-# ============================================================
-
 include:
   - _pages
-  - files
 
 exclude:
-  - .asset-cache
-  - .bundle
-  - .github
-  - .jekyll-assets-cache
-  - .jekyll-cache
-  - .sass-cache
-  - CHANGELOG.md
-  - CONTRIBUTING.md
   - Gemfile
   - Gemfile.lock
   - LICENSE
-  - README
   - README.md
-  - node_modules
-  - package.json
-  - tmp
   - vendor
 
 encoding: "utf-8"
-
-
-# ============================================================
-# MARKDOWN
-# ============================================================
-
 markdown: kramdown
 highlighter: rouge
 
@@ -95,13 +48,7 @@ kramdown:
   hard_wrap: false
   auto_ids: true
   entity_output: as_char
-  toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
-
-
-# ============================================================
-# PAGE DEFAULTS
-# ============================================================
 
 defaults:
   - scope:
@@ -111,38 +58,13 @@ defaults:
       layout: single
       author_profile: true
 
-
-# ============================================================
-# STYLING
-# ============================================================
-
 sass:
   sass_dir: _sass
   style: compressed
 
-
-# ============================================================
-# OUTPUT
-# ============================================================
-
 permalink: /:categories/:title/
 timezone: Europe/Rome
-
-
-# ============================================================
-# PLUGINS
-# ============================================================
 
 plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
-
-
-# ============================================================
-# HTML COMPRESSION
-# ============================================================
-
-compress_html:
-  clippings: all
-  ignore:
-    envs: development
