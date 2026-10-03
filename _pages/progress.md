@@ -1,16 +1,12 @@
 ---
 layout: archive
-title: "Work in progress"
-permalink: /progress/
+title: "Data & Code"
+permalink: /data-code/
 author_profile: true
+redirect_from:
+  - /progress/
 ---
 
-_Drafts or presentations are available upon request_
+*This page is currently under construction.*
 
-🠊 What do parents value in a school? A factorial survey experiment in three countries (with Moris Trivent). Submitted to journals.
-
-🠊 Patterns of horizontal gender (de)segregation in higher education. A comparative analysis of institutional settings and over birth cohorts (with Giulia Tattarini).
-
-🠊 A novel examination of trends in vertical and horizontal inequalities in higher education: A large scale cross-national analysis (with Moris Triventi)
-
-
+Replication materials, analysis code, documentation, and data-access information for selected publications will be added progressively.
