@@ -9,7 +9,7 @@ author_profile: true
 Salza G. & M. Triventi. (2026). School preferences across countries and social groups: A factorial
 survey experiment in the United States, Germany and Italy. Social Forces, soag130. https://doi.org/10.1093/sf/soag130.
 
-Salza, G., & Samuel, R. (2025). Digital engagement and youth: A scoping review of opportunities, risks, and the role of socioeconomic resources. Information, Communication and Society, accepted for publication. 10.1080/1369118X.2025.2574297.
+Salza, G., & Samuel, R. (2026). Digital engagement and youth: a scoping review of opportunities, risks, and the role of socioeconomic resources. Information, Communication & Society, 29(9), 2756–2774. https://doi.org/10.1080/1369118X.2025.2574297
 
 Fernandez-Urbano, R., Salza, G. & Samuel, R. Subjective School Experience and Well-Being during the COVID-19 Pandemic. J Happiness Stud 26, 14 (2025).
 
