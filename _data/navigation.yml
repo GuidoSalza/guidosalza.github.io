@@ -6,8 +6,8 @@ main:
   - title: "Conferences & Seminars"
     url: /talks/    
     
-  - title: "Work in progress"
-    url: /progress/
+  - title: "Data & Code"
+    url: /data-code/
 
   - title: "Teaching"
     url: /teaching/    
