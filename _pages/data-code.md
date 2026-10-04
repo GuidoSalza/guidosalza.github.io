@@ -30,6 +30,6 @@ This page collects data, code, and documentation associated with my published re
 [Article](https://doi.org/10.1080/1369118X.2025.2574297) · [Data and replication files](https://doi.org/10.17605/OSF.IO/2UMQJ)
 
 
-### OSF profile & Zenodo
+### Other materials
 
 Additional open materials and preprints are available on my [Open Science Framework profile](https://osf.io/user/ux3mf?tab=2) and my [Zenodo records](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Salza%2C+Guido%22).

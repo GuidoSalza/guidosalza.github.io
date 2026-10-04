@@ -1,11 +1,9 @@
-# main links links
 main:
   - title: "Publications"
-    url: /publications/   
-    
+    url: /publications/
+
   - title: "Data & Code"
     url: /data-code/
 
   - title: "Teaching"
-    url: /teaching/    
- 
+    url: /teaching/

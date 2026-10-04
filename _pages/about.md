@@ -15,4 +15,4 @@ I am a founding member of [EqualScope – Center for the Study of Social Inequal
 
 Before joining the University of Milan, I held research positions at the University of Luxembourg’s Centre for Childhood and Youth Research and at the University of Trento. My research has appeared in journals including *Social Forces*, *European Sociological Review*, *Research in Social Stratification and Mobility*, and *Information, Communication & Society*.
 
-See my [publications](/publications/) and [replication materials](/data-code/).
+See my [publications](/publications/), [replication materials](/data-code/), and [full CV](/files/guido-salza-cv.pdf).
